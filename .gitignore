@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.DS_Store
+.env*
+*.log
+.openai/
+.vercel/
+playwright-report/
+test-results/
